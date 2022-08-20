@@ -1,2 +1,3 @@
-Simple to run
-    - chmod u+x run.sh && run.sh
+Reference email system
+    - SOGO
+        - reference : https://medevel.com/sogo-webmail-groupware/
