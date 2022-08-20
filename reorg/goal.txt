@@ -3,9 +3,9 @@ Reference email system
         - reference : https://medevel.com/sogo-webmail-groupware/
 
 Evaluation Criteria
-    - 2. Integration with Apple mail, Google mail app
+    - 2. Integration with Apple mail, Google mail app : Provided ?
     - 1. Employee directory sync(pull)
-    - 3. Calendar
+    - 3. Calendar : Provided ? Claimed.
 
 Also nice : a Desktop email/calendar client - No proper desktop email client. Using outlook defeats their purpose.
     - apple mail, calendar - mac
