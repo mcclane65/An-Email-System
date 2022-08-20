@@ -1,3 +1,0 @@
-- Goal 1, create a self hosted app
-- Goal 2, simple to run
-- Goal 3, reference email system
