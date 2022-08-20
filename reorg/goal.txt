@@ -1,3 +1,11 @@
 Reference email system
     - SOGO
         - reference : https://medevel.com/sogo-webmail-groupware/
+
+Evaluation Criteria
+    - 2. Integration with Apple mail, Google mail app
+    - 1. Employee directory sync(pull)
+    - 3. Calendar
+
+Not yet in scope
+    - Online meetings integration (can be added manually to meetings for now)
