@@ -1,0 +1,3 @@
+Create a self hosted app
+- simple to download and install(setup)
+    - how to download - should not require git. download as zip is provided in github itself. ✔️
