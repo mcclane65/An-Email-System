@@ -7,4 +7,7 @@ Evaluation Criteria
     - 1. Employee directory sync(pull)
     - 3. Calendar
 
-Also nice : a Desktop email/calendar client
+Also nice : a Desktop email/calendar client - No proper desktop email client. Using outlook defeats their purpose.
+    - apple mail, calendar - mac
+    - windows ?
+    - linux - keep the connection protocol open
